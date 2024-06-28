@@ -1,5 +1,3 @@
-# National-Parks-in-USA-and-Biodiversity-Analysis
-
 Questions answered:
 
 1. What is the distribution of conservation_status for the species?
